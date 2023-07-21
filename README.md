@@ -24,5 +24,4 @@ FloppyMan is an addictive and challenging endless runner game built with Unity, 
 
 4. Collect coins and power-ups to boost your score and extend your flight.
 
-5. Challenge yourself to achieve the highest scores possible in both levels and climb the ranks on the leaderboard.
 
